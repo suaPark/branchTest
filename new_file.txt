@@ -1,0 +1,2 @@
+this is new_file.txt
+It is work via branch new_test.
